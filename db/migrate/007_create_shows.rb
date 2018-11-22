@@ -1,1 +1,5 @@
-class CreateShows < ActiveRecord::Migrate
+class CreateShows < ActiveRecord::Migration[5.1]
+  
+  def change
+    
+end
